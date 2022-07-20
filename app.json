@@ -1,0 +1,7 @@
+{
+  "name": "PythonForEverybody",
+  "description": "A simple repository of Python basic concepts.",
+  "repository": "https://github.com/SalesforceLynx/PythonForEverybody",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["python", "django", "fastapi"]
+}
